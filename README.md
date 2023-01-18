@@ -6,7 +6,7 @@ File upload system is a project that is supposed to demonstrate the uploading of
 
 ### Backend : C#
 
-### Web Framework: ASP.Net
+### Web Framework: ASP.Net MVC Framework
 
 ### Features
 
